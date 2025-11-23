@@ -7,9 +7,9 @@ title: Home
   <img src="assets/images/profile.jpg" alt="My Profile Picture" class="profile-img">
   
   <div class="profile-text">
-    <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/">George Mason University</a> advised by <a href="https://ziyuyao.org/"> Prof. Ziyu Yao</a>. I'm interested in understanding how language models work and also leverage the understanding for practical applications.  </p>
+    <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/">George Mason University</a> advised by <a href="https://ziyuyao.org/"> Prof. Ziyu Yao</a>. I'm interested in understanding how language models work and also leverage the understanding for practical applications. My recent work focuses on exploring the internal mechanisms of language models through mechanistic interpretability. </p>
     
-    <small> Misc: I was born and grew up in Nepal. Besides research, I like taking pictures and traveling. </small>
+    <!-- <small> Misc: I was born and grew up in Nepal. Besides research, I like taking pictures and traveling. </small> -->
     
     <p>
       <a href="#">Twitter</a> / <a href="#">CV</a> / <a href="#">Google Scholar</a> / <a href="#">Email</a>
