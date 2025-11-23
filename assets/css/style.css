@@ -51,8 +51,8 @@ a:hover {
 }
 
 .profile-img {
-    width: 200px;
-    height: 200px;
+    width: 280px;
+    height: 320px;
     object-fit: cover;
     border-radius: 2px; /* Slight rounding, or remove for sharp edges */
 }
