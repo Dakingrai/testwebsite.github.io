@@ -92,6 +92,13 @@ title: Home
 </div>
 
 <div class="paper-item">
+  <div class="paper-date">Pre-print 2024</div>
+  <div class="paper-details">
+    Understanding the Effect of Algorithm Transparency of Model Explanations in Text-to-SQL Semantic Parsing. (<a href="https://arxiv.org/abs/2410.16283">Paper</a>)
+  </div>
+</div>
+
+<div class="paper-item">
   <div class="paper-date">ACL 2023</div>
   <div class="paper-details">
     Improving generalization in language model-based text-to-SQL semantic parsing: Two simple semantic boundary-based techniques. (<a href="https://arxiv.org/abs/2305.17378">Paper</a>)
