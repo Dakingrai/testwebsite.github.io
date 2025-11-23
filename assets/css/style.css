@@ -124,7 +124,7 @@ h2 {
     overflow-y: auto;        /* This creates the vertical scrollbar */
     
     padding-right: 15px;     /* Space so text doesn't touch the scrollbar */
-    margin-bottom: 50px;     /* Space between News and Papers */
+    margin-bottom: 20px;     /* Space between News and Papers */
     
     font-size: 0.95rem;      /* Slightly smaller text for news items */
     border-left: 3px solid #eee; /* Optional: A nice subtle line on the left */
