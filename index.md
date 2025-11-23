@@ -14,7 +14,7 @@ title: Home
     <!-- <small> Misc: I was born and grew up in Nepal. Besides research, I like taking pictures and traveling. </small> -->
     
     <p>
-      <a href="#">Twitter</a> / <a href="#">CV</a> / <a href="#">Google Scholar</a> / <a href="#">Email</a>
+      <a href="https://x.com/DakingRai" target="_blank">Twitter</a> / <a href="/assets/files/resume.pdf">Resume</a> / <a href="https://scholar.google.com/citations?hl=en&user=M5r2DHIAAAAJ">Google Scholar</a> / <a href="https://www.linkedin.com/in/daking-rai-901593112/">LinkedIn</a>
     </p>
   </div>
 </div>
