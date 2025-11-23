@@ -28,33 +28,21 @@ title: Home
   <p><strong>Upcoming events:</strong></p>
 
   <div class="news-item">
-    <strong>2025-12-10</strong> Attending NeurIPS (San Diego) to present my work on <a href="#" target="_blank">Balanced Parentheses Errors</a>.
-  </div>
-
-  <div class="news-item">
-    <strong>2025-11-15</strong> Defending my thesis proposal at George Mason University.
+    <strong>Dec 2025</strong> Attending NeurIPS (San Diego) to present my work on <a href="https://arxiv.org/pdf/2507.00322" target="_blank">Balanced Parentheses Errors</a>.
   </div>
 
   <br> <p><strong>Past news:</strong></p>
 
   <div class="news-item">
-    <strong>2025-10-06</strong> Co-organized "The First Workshop on the Application of LLM Explainability to Reasoning and Planning".
+    <strong>Oct 2025</strong> Organized <a href="https://xllm-reasoning-planning-workshop.github.io/" target="_blank">The First Workshop on the Application of LLM Explainability to Reasoning and Planning </a> at COLM2025.
   </div>
 
   <div class="news-item">
-    <strong>2025-09-20</strong> Released the preprint for <a href="#" target="_blank">Failure by Interference</a>.
+    <strong>Oct 2025</strong> Released the preprint for our <a href="https://arxiv.org/abs/2407.02646" target="_blank"> survey paper on Mechanistic Interpretability</a>.
   </div>
 
   <div class="news-item">
-    <strong>2025-08-01</strong> Released a new dataset for arithmetic reasoning in LLMs.
-  </div>
-
-  <div class="news-item">
-    <strong>2025-05-01</strong> Started internship at [Company Name].
-  </div>
-  
-  <div class="news-item">
-    <strong>2024-12-14</strong> Presented poster at NeurIPS 2024.
+    <strong>July 2025</strong> Conducted <a href="https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/" target="_blank">Tutorial on Mechanistic Interpretability for Language Models </a> at ICML2025.
   </div>
 
 </div>
