@@ -74,20 +74,28 @@ h2 {
 }
 
 .paper-item {
-    display: flex;
-    margin-bottom: 15px;
+    display: flex;         /* Enables side-by-side layout */
+    align-items: baseline; /* Aligns text perfectly on the first line */
+    margin-bottom: 24px;   /* Adds breathing room between papers */
 }
 
 .paper-date {
-    min-width: 80px;
-    font-feature-settings: "tnum"; /* Tabular numbers for alignment */
-    color: #666;
-    font-size: 0.9rem;
-    padding-top: 2px;
+    flex: 0 0 150px;       /* FORCE width to 150px. Won't shrink. */
+    padding-right: 20px;   /* Gap between date and title */
+    
+    color: #666;           /* Grey color for date */
+    font-size: 0.9rem;     /* Slightly smaller text */
+    font-weight: 500;      /* Make it readable */
 }
 
 .paper-details {
-    flex: 1;
+    flex: 1;               /* Takes up all remaining space */
+}
+
+/* Optional: Make the title bold or normal */
+.paper-title {
+    color: #111;
+    font-weight: 400; /* Use 700 if you want bold titles */
 }
 
 /* Responsive for mobile */

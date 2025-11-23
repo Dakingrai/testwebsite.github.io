@@ -68,3 +68,13 @@ title: Home
 </div>
 
 
+## News and Events
+
+<div class="paper-item">
+  <div class="paper-date">NeurIPS 2025</div>
+  <div class="paper-details">
+    An Failure by Interference: Language Models Make Balanced Parentheses Errors When Faulty Mechanisms Overshadow Sound Ones. (<a href="https://arxiv.org/pdf/2507.00322">Paper</a>)
+  </div>
+</div>
+
+
