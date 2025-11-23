@@ -7,7 +7,7 @@ title: Home
   <img src="assets/images/profile.jpg" alt="My Profile Picture" class="profile-img">
   
   <div class="profile-text">
-    <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/">George Mason University</a> advised by <a href="https://ziyuyao.org/"> Prof. Ziyu Yao. I'm interested in understanding how language models work and also leverage the understanding for practical applications.  </a> </p>
+    <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/">George Mason University</a> advised by <a href="https://ziyuyao.org/"> Prof. Ziyu Yao</a>. I'm interested in understanding how language models work and also leverage the understanding for practical applications.  </p>
     
     <small> Misc: I was born and grew up in Nepal. Besides research, I like taking pictures and traveling. </small>
     
