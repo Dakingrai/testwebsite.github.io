@@ -21,7 +21,7 @@ title: Home
   </div>
 </div>
 
-</div> <h2>News & Updates</h2>
+<h2>News & Updates</h2>
 
 <div class="news-box">
   
