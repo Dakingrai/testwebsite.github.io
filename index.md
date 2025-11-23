@@ -7,7 +7,7 @@ title: Home
   <img src="assets/images/profile.jpg" alt="My Profile Picture" class="profile-img">
   
   <div class="profile-text">
-    <p>Hi, I'm a PhD student at George Mason University advised by <a href="https://ziyuyao.org/" target="_blank"> Prof. Ziyu Yao</a>. I’m interested in understanding how language models work and applying those insights to practical applications such as improving improve their capabilities and controllability.  </p>
+    <p>Hi, I'm a PhD student at George Mason University advised by <a href="https://ziyuyao.org/" target="_blank"> Prof. Ziyu Yao</a>. I’m interested in understanding how language models work and applying those insights to practical applications such as improving model capabilities and controllability.  </p>
     
     <p> I am actively seeking a <span style="font-weight: bold;">Summer 2026 internship</span>. My recent work centers around <a href="https://arxiv.org/pdf/2407.02646" target="_blank"> mechanistic interpretability (MI) </a> of language models, aiming to better understand how model perform reasoning and to leverage those insights to <span style="font-weight: bold;">improve their reasoning capabilities</span>.  </p>
 
