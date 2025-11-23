@@ -169,23 +169,37 @@ h2 {
     padding-left: 40px; 
 }
 
-.news-list li {
+/* .news-list li {
     margin-bottom: 5px;
     /* Optional: This ensures the text aligns cleanly if it wraps to a second line */
     padding-left: 5px; 
-}
+} */
 
 .news-list a:hover {
     color: #F06529; /* Your pumpkin orange */
     text-decoration: underline;
 }
 
+/* 1. Update the Paragraph spacing */
 .news-box p {
-    margin-bottom: 5px;  /* Reduces space between header and list */
-    margin-top: 15px;    /* Reduces space above "Past news" (tightens the gap) */
+    margin-bottom: 4px;  /* Tiny space between Header and Bullets */
+    margin-top: 12px;    /* This controls the gap between "Past news" and the list above */
 }
 
-/* Remove top margin for the very first header so it sits at the top */
 .news-box p:first-child {
-    margin-top: 0;
+    margin-top: 0;       /* Keep the very first header at the top */
+}
+
+/* 2. Update the List spacing */
+.news-list {
+    padding-left: 40px;
+    
+    /* VITAL FIX: Remove the default browser margins */
+    margin-top: 0;      
+    margin-bottom: 0;   
+}
+
+.news-list li {
+    margin-bottom: 6px; /* Spacing between individual bullets */
+    padding-left: 5px;
 }
