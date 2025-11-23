@@ -7,13 +7,9 @@ title: Home
   <img src="assets/images/profile.jpg" alt="My Profile Picture" class="profile-img">
   
   <div class="profile-text">
-    <p>I am an AI researcher and Engineer.</p>
+    <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/">George Mason University</a> advised by <a href="https://ziyuyao.org/"> Prof. Ziyu Yao. I'm interested in understanding how language models work and also leverage the understanding for practical applications.  </a> </p>
     
-    <p>I currently work at <strong>[Your Current Affiliation]</strong>.</p>
-    
-    <p>Previously, I was at [Previous Company], where I worked on [Topic A] and [Topic B]. My work focuses on [Research Interest 1], [Research Interest 2], and [Research Interest 3].</p>
-
-    <p>An invited lecture I gave at [University] is available <a href="#">on YouTube</a>.</p>
+    <small> Misc: I was born and grew up in Nepal. Besides research, I like taking pictures and traveling. </small>
     
     <p>
       <a href="#">Twitter</a> / <a href="#">CV</a> / <a href="#">Google Scholar</a> / <a href="#">Email</a>
