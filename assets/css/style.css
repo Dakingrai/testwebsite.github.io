@@ -172,3 +172,8 @@ h2 {
 .news-list li {
     margin-bottom: 10px; /* Adds breathing room between bullet points */
 }
+
+.news-list a:hover {
+    color: #F06529; /* Your pumpkin orange */
+    text-decoration: underline;
+}
