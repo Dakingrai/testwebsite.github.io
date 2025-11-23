@@ -7,7 +7,9 @@ title: Home
   <img src="assets/images/profile.jpg" alt="My Profile Picture" class="profile-img">
   
   <div class="profile-text">
-    <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/">George Mason University</a> advised by <a href="https://ziyuyao.org/"> Prof. Ziyu Yao</a>. I’m interested in understanding how language models work and applying those insights to practical applications such as improving improve their capabilities and controllability. My recent work focuses on exploring the internal mechanisms of language models through mechanistic interpretability. </p>
+    <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/">George Mason University</a> advised by <a href="https://ziyuyao.org/"> Prof. Ziyu Yao</a>. I’m interested in understanding how language models work and applying those insights to practical applications such as improving improve their capabilities and controllability.  </p>
+    
+    <p> My recent work focuses on exploring the internal mechanisms of language models through <a href="https://arxiv.org/pdf/2407.02646"> mechanistic interpretability. </p>
     
     <!-- <small> Misc: I was born and grew up in Nepal. Besides research, I like taking pictures and traveling. </small> -->
     
