@@ -9,7 +9,7 @@ title: Home
   <div class="profile-text">
     <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/" target="_blank">George Mason University</a> advised by <a href="https://ziyuyao.org/" target="_blank"> Prof. Ziyu Yao</a>. I’m interested in understanding how language models work and applying those insights to practical applications such as improving improve their capabilities and controllability.  </p>
     
-    <p> I am actively seeking a <span style="font-weight: bold;">Summer 2026 internship </span>. My recent work centers around <a href="https://arxiv.org/pdf/2407.02646" target="_blank"> mechanistic interpretability (MI) </a> of language models, aiming to better understand how model perform reasoning and to leverage those insights to <span style="font-weight: bold;">improve</span> their reasoning capabilities.  </p>
+    <p> I am actively seeking a <span style="font-weight: bold;">Summer 2026 internship</span>. My recent work centers around <a href="https://arxiv.org/pdf/2407.02646" target="_blank"> mechanistic interpretability (MI) </a> of language models, aiming to better understand how model perform reasoning and to leverage those insights to <span style="font-weight: bold;">improve</span> their <span style="font-weight: bold;">reasoning capabilities</span>.  </p>
 
     <!-- where I'm currently interested in developing a top-down MI framework for explaining model behaviors across levels of analysis, from mechanistic components (e.g., features, circuits) to high-level cognitive-like behaviors (e.g., reasoning). This is motivated by the uncertainty that low-level understanding will explain higher-level emergent behaviors. -->
     
