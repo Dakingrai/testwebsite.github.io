@@ -29,7 +29,7 @@ title: Home
 
   <ul class="news-list">
     <li>
-    <strong>Dec 2025</strong> Attending NeurIPS (San Diego) to present my work on <a href="https://arxiv.org/pdf/2507.00322" target="_blank">Balanced Parentheses Errors</a>.
+    Attending NeurIPS (San Diego) to present my work on <a href="https://arxiv.org/pdf/2507.00322" target="_blank">Balanced Parentheses Errors</a>.
   </li>
   </ul>
 
@@ -37,15 +37,15 @@ title: Home
 
   <ul class="news-list">
     <li>
-        <strong>Oct 2025</strong> Organized <a href="https://xllm-reasoning-planning-workshop.github.io/" target="_blank">The First Workshop on the Application of LLM Explainability to Reasoning and Planning </a> at COLM2025.
+        Organized <a href="https://xllm-reasoning-planning-workshop.github.io/" target="_blank">The First Workshop on the Application of LLM Explainability to Reasoning and Planning </a> at COLM2025.
     </li>
 
     <li>
-        <strong>Oct 2025</strong> Released the preprint for our <a href="https://arxiv.org/abs/2407.02646" target="_blank"> survey paper on Mechanistic Interpretability</a>.
+        Released the preprint for our <a href="https://arxiv.org/abs/2407.02646" target="_blank"> survey paper on Mechanistic Interpretability</a>.
     </li>
 
   <li>
-    <strong>July 2025</strong> Conducted <a href="https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/" target="_blank">Tutorial on Mechanistic Interpretability for Language Models </a> at ICML2025.
+    Conducted <a href="https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/" target="_blank">Tutorial on Mechanistic Interpretability for Language Models </a> at ICML2025.
    </li>
 
 </ul>

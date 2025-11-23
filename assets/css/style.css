@@ -160,7 +160,7 @@ h2 {
 .news-list {
     padding-left: 20px;  /* Indents the bullets slightly */
     margin-top: 5px;     /* Small gap between header and list */
-    margin-bottom: 20px; /* Space after the list ends */
+    margin-bottom: 5px; /* Space after the list ends */
 }
 
 .news-list li {
