@@ -43,7 +43,7 @@ title: Home
     <li>
         <strong>Oct 2025</strong> Released the preprint for our <a href="https://arxiv.org/abs/2407.02646" target="_blank"> survey paper on Mechanistic Interpretability</a>.
     </li>
-    
+
   <li>
     <strong>July 2025</strong> Conducted <a href="https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/" target="_blank">Tutorial on Mechanistic Interpretability for Language Models </a> at ICML2025.
    </li>
@@ -77,13 +77,6 @@ title: Home
 
 
 <div class="paper-item">
-  <div class="paper-date">Pre-print 2025</div>
-  <div class="paper-details">
-    A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models. (<a href="https://arxiv.org/abs/2407.02646">Paper</a>)
-  </div>
-</div>
-
-<div class="paper-item">
   <div class="paper-date">EMNLP 2025</div>
   <div class="paper-details">
     A survey on sparse autoencoders: Interpreting the internal mechanisms of large language models. (<a href="https://arxiv.org/pdf/2503.05613">Paper</a>)
@@ -98,14 +91,14 @@ title: Home
   </div>
 </div>
 
-
-## News and Events
-
 <div class="paper-item">
-  <div class="paper-date">NeurIPS 2025</div>
+  <div class="paper-date">ACL 2023</div>
   <div class="paper-details">
-    An Failure by Interference: Language Models Make Balanced Parentheses Errors When Faulty Mechanisms Overshadow Sound Ones. (<a href="https://arxiv.org/pdf/2507.00322">Paper</a>)
+    Improving generalization in language model-based text-to-SQL semantic parsing: Two simple semantic boundary-based techniques. (<a href="https://arxiv.org/abs/2305.17378">Paper</a>)
   </div>
 </div>
+
+
+
 
 
