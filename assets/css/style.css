@@ -169,11 +169,6 @@ h2 {
     padding-left: 40px; 
 }
 
-/* .news-list li {
-    margin-bottom: 5px;
-    /* Optional: This ensures the text aligns cleanly if it wraps to a second line */
-    padding-left: 5px; 
-} */
 
 .news-list a:hover {
     color: #F06529; /* Your pumpkin orange */
