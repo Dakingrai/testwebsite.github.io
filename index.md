@@ -9,7 +9,7 @@ title: Home
   <div class="profile-text">
     <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/">George Mason University</a> advised by <a href="https://ziyuyao.org/"> Prof. Ziyu Yao</a>. I’m interested in understanding how language models work and applying those insights to practical applications such as improving improve their capabilities and controllability.  </p>
     
-    <p> My recent work focuses on exploring the internal mechanisms of language models through <a href="https://arxiv.org/pdf/2407.02646"> mechanistic interpretability. </p>
+    <p> My recent work focuses on exploring the internal mechanisms of language models through <a href="https://arxiv.org/pdf/2407.02646"> mechanistic interpretability (MI). I'm currently thinking about how to develop a top-down MI framework to explaining model behaviors across levels of analysis, from mechanistic components (e.g., features, circuits, layers) to high-level cognitive-like behaviors (e.g., reasoning, planning). This direction is motivated by the absence of a systematic characterization of which behaviors arise at which levels, as well as the lack of any guarantee that understanding individual mechanistic components will straightforwardly explain higher-level behaviors. I would love to chat if you're also interested in this problem, or in any topic related to language models.  </p>
     
     <!-- <small> Misc: I was born and grew up in Nepal. Besides research, I like taking pictures and traveling. </small> -->
     
