@@ -9,12 +9,12 @@ title: Home
   <div class="profile-text">
     <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/" target="_blank">George Mason University</a> advised by <a href="https://ziyuyao.org/" target="_blank"> Prof. Ziyu Yao</a>. I’m interested in understanding how language models work and applying those insights to practical applications such as improving improve their capabilities and controllability.  </p>
     
-    <p> My recent work focuses on exploring the internal mechanisms of language models through <a href="https://arxiv.org/pdf/2407.02646" target="_blank"> mechanistic interpretability (MI) </a>, where I'm currently interested in developing a top-down MI framework for explaining model behaviors across levels of analysis, from mechanistic components (e.g., features, circuits) to high-level cognitive-like behaviors (e.g., reasoning). This is motivated by the uncertainty that low-level understanding will explain higher-level emergent behaviors. </p>
+    <p> I'm currently looking for 2026 summer interneships. My recent work focuses on exploring the internal mechanisms of language models through <a href="https://arxiv.org/pdf/2407.02646" target="_blank"> mechanistic interpretability (MI) </a>, where I'm currently interested in developing a top-down MI framework for explaining model behaviors across levels of analysis, from mechanistic components (e.g., features, circuits) to high-level cognitive-like behaviors (e.g., reasoning). This is motivated by the uncertainty that low-level understanding will explain higher-level emergent behaviors. </p>
     
     <!-- <small> Misc: I was born and grew up in Nepal. Besides research, I like taking pictures and traveling. </small> -->
     
     <p>
-      <a href="https://x.com/DakingRai" target="_blank">Twitter</a> / <a href="/assets/files/resume.pdf">Resume</a> / <a href="https://scholar.google.com/citations?hl=en&user=M5r2DHIAAAAJ">Google Scholar</a> / <a href="https://www.linkedin.com/in/daking-rai-901593112/">LinkedIn</a>
+      <a href="https://x.com/DakingRai" target="_blank">Twitter</a> / <a href="/assets/files/resume.pdf" target="_blank">Resume</a> / <a href="https://scholar.google.com/citations?hl=en&user=M5r2DHIAAAAJ" target="_blank">Google Scholar</a> / <a href="https://www.linkedin.com/in/daking-rai-901593112/" target="_blank">LinkedIn</a>
     </p>
   </div>
 </div>
