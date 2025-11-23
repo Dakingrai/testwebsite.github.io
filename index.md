@@ -9,7 +9,7 @@ title: Home
   <div class="profile-text">
     <p>Hi, I'm a PhD student at <a href="https://cs.gmu.edu/" target="_blank">George Mason University</a> advised by <a href="https://ziyuyao.org/" target="_blank"> Prof. Ziyu Yao</a>. I’m interested in understanding how language models work and applying those insights to practical applications such as improving improve their capabilities and controllability.  </p>
     
-    <p> I am actively seeking a <span style="font-weight: bold;">Summer 2026 internship</span>. My recent work centers around <a href="https://arxiv.org/pdf/2407.02646" target="_blank"> mechanistic interpretability (MI) </a> of language models, aiming to better understand how model perform reasoning and to leverage those insights to <span style="font-weight: bold;">improve</span> their <span style="font-weight: bold;">reasoning capabilities</span>.  </p>
+    <p> I am actively seeking a <span style="font-weight: bold;">Summer 2026 internship</span>. My recent work centers around <a href="https://arxiv.org/pdf/2407.02646" target="_blank"> mechanistic interpretability (MI) </a> of language models, aiming to better understand how model perform reasoning and to leverage those insights to <span style="font-weight: bold;">improve their reasoning capabilities</span>.  </p>
 
     <!-- where I'm currently interested in developing a top-down MI framework for explaining model behaviors across levels of analysis, from mechanistic components (e.g., features, circuits) to high-level cognitive-like behaviors (e.g., reasoning). This is motivated by the uncertainty that low-level understanding will explain higher-level emergent behaviors. -->
     
@@ -24,22 +24,47 @@ title: Home
 ## Papers
 
 <div class="paper-item">
-  <div class="paper-date">2025 Apr</div>
+  <div class="paper-date">NeurIPS 2025</div>
   <div class="paper-details">
-    A simple yet challenging benchmark for browsing agents. (<a href="#">blog</a>)
+    An Failure by Interference: Language Models Make Balanced Parentheses Errors When Faulty Mechanisms Overshadow Sound Ones. (<a href="https://arxiv.org/pdf/2507.00322">Paper</a>)
   </div>
 </div>
 
 <div class="paper-item">
-  <div class="paper-date">2024 Oct</div>
+  <div class="paper-date">EMNLP 2025</div>
   <div class="paper-details">
-    Measuring short-form factuality in large language models. (<a href="#">pdf</a>)
+    All for one: Llms solve mental math at the last token with information transferred from other tokens. (<a href="https://aclanthology.org/2025.emnlp-main.1565.pdf">Paper</a>)
   </div>
 </div>
 
 <div class="paper-item">
-  <div class="paper-date">2022 Oct</div>
+  <div class="paper-date">Pre-print 2025</div>
   <div class="paper-details">
-    Scaling instruction-finetuned language models. (<a href="#">blog</a>)
+    A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models. (<a href="https://arxiv.org/abs/2407.02646">Paper</a>)
   </div>
 </div>
+
+
+<div class="paper-item">
+  <div class="paper-date">Pre-print 2025</div>
+  <div class="paper-details">
+    A Practical Review of Mechanistic Interpretability for Transformer-Based Language Models. (<a href="https://arxiv.org/abs/2407.02646">Paper</a>)
+  </div>
+</div>
+
+<div class="paper-item">
+  <div class="paper-date">EMNLP 2025</div>
+  <div class="paper-details">
+    A survey on sparse autoencoders: Interpreting the internal mechanisms of large language models. (<a href="https://arxiv.org/pdf/2503.05613">Paper</a>)
+  </div>
+</div>
+
+
+<div class="paper-item">
+  <div class="paper-date">ACL 2024</div>
+  <div class="paper-details">
+    An investigation of neuron activation as a unified lens to explain chain-of-thought eliciting arithmetic reasoning of llms. (<a href="https://arxiv.org/pdf/2406.12288?">Paper</a>)
+  </div>
+</div>
+
+
