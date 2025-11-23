@@ -183,3 +183,13 @@ h2 {
     color: #F06529; /* Your pumpkin orange */
     text-decoration: underline;
 }
+
+.news-box p {
+    margin-bottom: 5px;  /* Reduces space between header and list */
+    margin-top: 15px;    /* Reduces space above "Past news" (tightens the gap) */
+}
+
+/* Remove top margin for the very first header so it sits at the top */
+.news-box p:first-child {
+    margin-top: 0;
+}
