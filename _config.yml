@@ -1,0 +1,6 @@
+title: Daking Rai
+description: Academic Researcher Portfolio
+url: "https://testwebsite.github.io"
+baseurl: ""
+markdown: kramdown
+theme: jekyll-theme-primer # Fallback, though we are using custom CSS
