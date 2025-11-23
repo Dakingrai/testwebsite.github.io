@@ -135,10 +135,11 @@ h2 {
     font-size: 0.95rem;      /* Slightly smaller text for news items */
     border-left: 3px solid #eee; /* Optional: A nice subtle line on the left */
     padding-left: 20px;
+    padding-bottom: 5px;
 }
 
 .news-item {
-    margin-bottom: 12px;
+    margin-bottom: 5px;
     line-height: 1.5;
 }
 
@@ -166,17 +167,12 @@ h2 {
 .news-list {
     /* Changed from 20px to 40px for better indentation */
     padding-left: 40px; 
-    margin-top: 5px;
 }
 
 .news-list li {
     margin-bottom: 5px;
     /* Optional: This ensures the text aligns cleanly if it wraps to a second line */
     padding-left: 5px; 
-}
-
-.news-list li {
-    margin-bottom: 5px; /* Adds breathing room between bullet points */
 }
 
 .news-list a:hover {
