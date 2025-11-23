@@ -21,6 +21,44 @@ title: Home
   </div>
 </div>
 
+</div> <h2>News & Updates</h2>
+
+<div class="news-box">
+  
+  <p><strong>Upcoming events:</strong></p>
+
+  <div class="news-item">
+    <strong>2025-12-10</strong> Attending NeurIPS (San Diego) to present my work on <a href="#" target="_blank">Balanced Parentheses Errors</a>.
+  </div>
+
+  <div class="news-item">
+    <strong>2025-11-15</strong> Defending my thesis proposal at George Mason University.
+  </div>
+
+  <br> <p><strong>Past news:</strong></p>
+
+  <div class="news-item">
+    <strong>2025-10-06</strong> Co-organized "The First Workshop on the Application of LLM Explainability to Reasoning and Planning".
+  </div>
+
+  <div class="news-item">
+    <strong>2025-09-20</strong> Released the preprint for <a href="#" target="_blank">Failure by Interference</a>.
+  </div>
+
+  <div class="news-item">
+    <strong>2025-08-01</strong> Released a new dataset for arithmetic reasoning in LLMs.
+  </div>
+
+  <div class="news-item">
+    <strong>2025-05-01</strong> Started internship at [Company Name].
+  </div>
+  
+  <div class="news-item">
+    <strong>2024-12-14</strong> Presented poster at NeurIPS 2024.
+  </div>
+
+</div>
+
 ## Papers
 
 <div class="paper-item">

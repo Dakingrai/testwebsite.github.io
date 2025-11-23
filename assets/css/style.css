@@ -114,3 +114,43 @@ h2 {
         margin-right: 15px;
     }
 }
+
+
+
+
+/* News Scrollbox Container */
+.news-box {
+    max-height: 250px;       /* Adjust this number to make the box taller/shorter */
+    overflow-y: auto;        /* This creates the vertical scrollbar */
+    
+    padding-right: 15px;     /* Space so text doesn't touch the scrollbar */
+    margin-bottom: 50px;     /* Space between News and Papers */
+    
+    font-size: 0.95rem;      /* Slightly smaller text for news items */
+    border-left: 3px solid #eee; /* Optional: A nice subtle line on the left */
+    padding-left: 20px;
+}
+
+.news-item {
+    margin-bottom: 12px;
+    line-height: 1.5;
+}
+
+/* Custom Scrollbar Styling (Webkit only - Chrome/Safari/Edge) */
+.news-box::-webkit-scrollbar {
+    width: 8px;
+}
+
+.news-box::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+    border-radius: 4px;
+}
+
+.news-box::-webkit-scrollbar-thumb {
+    background: #ccc; 
+    border-radius: 4px;
+}
+
+.news-box::-webkit-scrollbar-thumb:hover {
+    background: #bbb; 
+}
