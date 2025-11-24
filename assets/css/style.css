@@ -379,7 +379,7 @@ margin-top: 0;
 /* Fixed Music Sticker */
 #music-sticker {
     position: fixed; /* Pins it to the screen */
-    bottom: 20px;    /* Distance from bottom */
+    bottom: 60px;    /* Distance from bottom */
     right: 20px;     /* Distance from right */
     
     width: 200px;     /* Adjust size as needed */
