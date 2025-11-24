@@ -37,7 +37,7 @@ title: Home
 
   <ul class="news-list">
     <li>
-        Organized <a href="https://xllm-reasoning-planning-workshop.github.io/" target="_blank">The First Workshop on the Application of LLM Explainability to Reasoning and Planning </a> at COLM2025.
+        We organized <a href="https://xllm-reasoning-planning-workshop.github.io/" target="_blank">The First Workshop on the Application of LLM Explainability to Reasoning and Planning </a> at COLM2025.
     </li>
 
     <li>
@@ -105,6 +105,34 @@ title: Home
   </div>
 </div>
 
+<div class="paper-item">
+  <div class="paper-date">AAAI 2023</div>
+  <div class="paper-details">
+    Explaining large language model-based neural semantic parsers (student abstract). (<a href="https://ojs.aaai.org/index.php/AAAI/article/view/27014">Paper</a>)
+  </div>
+</div>
+
+
+<img src="assets/images/totorobottle.gif" id="music-sticker" onclick="toggleMusic()" alt="Music Player">
+
+<audio id="bg-music" loop> 
+  <source src="assets/files/music.mp3" type="audio/mpeg">
+</audio>
+
+<script>
+  function toggleMusic() {
+    var audio = document.getElementById("bg-music");
+    var sticker = document.getElementById("music-sticker");
+
+    if (audio.paused) {
+      audio.play();
+      sticker.classList.add("dancing"); // Add animation class
+    } else {
+      audio.pause();
+      sticker.classList.remove("dancing");
+    }
+  }
+</script>
 
 
 

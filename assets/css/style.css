@@ -374,3 +374,34 @@ margin-top: 0px; /* Reduces space above "Past news" (tightens the gap) */
 margin-top: 0;
 
 }
+
+
+/* Fixed Music Sticker */
+#music-sticker {
+    position: fixed; /* Pins it to the screen */
+    bottom: 20px;    /* Distance from bottom */
+    right: 20px;     /* Distance from right */
+    
+    width: 80px;     /* Adjust size as needed */
+    cursor: pointer; /* Shows hand cursor */
+    z-index: 1000;   /* Ensures it sits on top of everything */
+    
+    transition: transform 0.2s ease;
+    opacity: 0.8;    /* Slight transparency (optional) */
+}
+
+#music-sticker:hover {
+    transform: scale(1.1); /* Pop up slightly on hover */
+    opacity: 1;
+}
+
+/* Animation when music is playing */
+.dancing {
+    opacity: 1 !important;
+    animation: bounce 0.6s infinite alternate;
+}
+
+@keyframes bounce {
+    from { transform: translateY(0); }
+    to { transform: translateY(-10px); }
+}
