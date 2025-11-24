@@ -253,14 +253,14 @@ margin-right: 15px;
 
 .news-box {
 
-max-height: 250px; /* Adjust this number to make the box taller/shorter */
+max-height: 200px; /* Adjust this number to make the box taller/shorter */
 
 overflow-y: auto; /* This creates the vertical scrollbar */
 
 
 padding-right: 15px; /* Space so text doesn't touch the scrollbar */
 
-margin-bottom: 5px; /* Space between News and Papers */
+margin-bottom: 15px; /* Space between News and Papers */
 
 
 font-size: 0.95rem; /* Slightly smaller text for news items */
