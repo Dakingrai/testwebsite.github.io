@@ -48,10 +48,10 @@ title: Home
     Conducted <a href="https://ziyu-yao-nlp-lab.github.io/ICML25-MI-Tutorial.github.io/" target="_blank">Tutorial on Mechanistic Interpretability for Language Models </a> at ICML2025.
    </li>
   <li>
-    Our paper, <a href="https://arxiv.org/pdf/2507.00322"> Failure by Interference: Language Models Make Balanced Parentheses Errors When Faulty Mechanisms Overshadow Sound Ones </a> got accepted in NeurIPS 2025.
+    Our paper, <a href="https://arxiv.org/pdf/2507.00322" target="_blank"> Failure by Interference: Language Models Make Balanced Parentheses Errors When Faulty Mechanisms Overshadow Sound Ones </a> got accepted in NeurIPS 2025.
   </li>
   <li>
-    Our paper, <a href="https://aclanthology.org/2025.emnlp-main.1565/"> All for one: Llms solve mental math at the last token with information transferred from other tokens </a> got accepted in EMNLP 2025.
+    Our paper, <a href="https://aclanthology.org/2025.emnlp-main.1565/" target="_blank"> All for one: Llms solve mental math at the last token with information transferred from other tokens </a> got accepted in EMNLP 2025.
   </li>
 
 </ul>
