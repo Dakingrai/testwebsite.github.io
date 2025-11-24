@@ -361,7 +361,7 @@ text-decoration: underline;
 
 margin-bottom: 5px; /* Reduces space between header and list */
 
-margin-top: 35px; /* Reduces space above "Past news" (tightens the gap) */
+margin-top: 0px; /* Reduces space above "Past news" (tightens the gap) */
 
 }
 
